@@ -1,0 +1,25 @@
+{
+	"devDependencies": {
+		"typescript": "^4.6.4"
+	},
+	"name": "m4-exercicios-semana1",
+	"description": "",
+	"version": "1.0.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"start": "node index.js",
+		"build": "npx tsc",
+		"build-and-run": "npm run build && npm start"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/jeffersonluiz27/M4-Exercicios-Semana1.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/jeffersonluiz27/M4-Exercicios-Semana1/issues"
+	},
+	"homepage": "https://github.com/jeffersonluiz27/M4-Exercicios-Semana1#readme"
+}
